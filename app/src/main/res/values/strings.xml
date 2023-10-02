@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="phone_book">Phone book</string>
+    <string name="countries">Countries</string>
+    <string name="id">id</string>
+    <string name="country">Country</string>
+    <string name="name">name</string>
+    <string name="surname">surname</string>
+    <string name="number">number</string>
+</resources>
